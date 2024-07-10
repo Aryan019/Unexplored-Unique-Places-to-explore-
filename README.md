@@ -27,7 +27,8 @@ Screenshots 📸
 <br>
 <br>
 
-![image](https://github.com/Aryan019/Unexplored-New-Places-to-Find-/assets/113816564/611f2680-342d-4e8a-95d2-fba947412450)
+![image](https://github.com/Aryan019/Unexplored-Unique-Places-to-explore-/assets/113816564/c458e2ba-c786-4ce6-937c-2ec878de1d79)
+
 
 
 <br>
@@ -35,14 +36,16 @@ Screenshots 📸
 <br>
 <br>
 
-![image](https://github.com/Aryan019/Unexplored-New-Places-to-Find-/assets/113816564/0002e1d3-b7a0-4877-a664-f8fad7e6933a)
+![image](https://github.com/Aryan019/Unexplored-Unique-Places-to-explore-/assets/113816564/569f34e4-2727-442d-a6b1-72e64ddc34b9)
+
 
 <br>
 - Individual view of Unexplored place
 <br>
 <br>
 
-![image](https://github.com/Aryan019/Unexplored-New-Places-to-Find-/assets/113816564/9960e338-e3cf-4e9c-ba3a-6c20c53b2ab6)
+![image](https://github.com/Aryan019/Unexplored-Unique-Places-to-explore-/assets/113816564/1a2045ed-2485-42b0-b8a5-d262921297d2)
+
 
 
 
