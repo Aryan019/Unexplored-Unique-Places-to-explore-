@@ -19,7 +19,8 @@ Screenshots 📸
 - See Unexplored in action:
 <br>
 
-![image](https://github.com/Aryan019/Unexplored-New-Places-to-Find-/assets/113816564/022fde1b-6e84-4759-af86-ba683405c29d)
+![image](https://github.com/Aryan019/Unexplored-Unique-Places-to-explore-/assets/113816564/52f89203-e64f-465f-bfb1-2cca8e9e0e18)
+
 
 <br>
 - Robust Authentication and Cryptographic protection to credentials
