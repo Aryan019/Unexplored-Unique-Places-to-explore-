@@ -52,7 +52,7 @@ Installation 🛠️
 Ensure you have Node.js and MongoDB installed on your machine.
 
 Clone the Repository
-- git clone https://github.com/Aryan019/Unexplored-New-Places-to-Find-.git
+- git clone https://github.com/Aryan019/Unexplored-Unique-Places-to-explore-.git
 - cd Unexplored-New-Places-to-Find-
 
 Install Dependencies
